@@ -1,4 +1,4 @@
-# about the project
+# About The Project
 In this project I have made an AI named Jarvis, which can do everything which you say to him and my project is in developing face
 
 # About the creator
